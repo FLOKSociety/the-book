@@ -1,0 +1,25 @@
+
+#main-content {
+	margin-right: -30px;
+}
+
+#main-content h1 {
+	font-size: 7em;
+}
+
+#navbar {
+	background: #000;
+	color: #fff;
+	padding: 6px;
+}
+
+#navbar li {
+	display: inline;
+	margin-right: 20px;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#main-sidebar img {
+	border: 10px solid #000;
+}
